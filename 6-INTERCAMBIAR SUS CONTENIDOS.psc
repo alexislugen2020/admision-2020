@@ -1,5 +1,5 @@
 Proceso sin_titulo
-	//teniendo dos variables numericas A y B, intercambiar sus contenidos sin utilizar ningun campo auxiliar
+	//Leer dos variables, cargarla en una variable X e Y y luego intercambiar sus contenidos. Finalmente imprimir sus resultados.
 	A<-0; 
 	B<-0; 
 	Escribir "INGRESE EL PRIMER NUMERO"
